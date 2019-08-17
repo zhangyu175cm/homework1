@@ -5,7 +5,7 @@ import java.util.Date;
 public class Spider extends Animal {
 
 	public Spider() {
-		super(8);
+		super(8); 
 		
 	}
 
